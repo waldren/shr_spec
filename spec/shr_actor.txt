@@ -60,11 +60,6 @@ Description:	"A person, other than a professional care provider or family member
 Value:			HumanName
 0..*    		Telecom
 
-Element:	CareGiver
-Concept:		MTH#C0085537
-Description:	"A person, other than a professional care provider, who provides care to the subject."
-Value:			HumanName
-0..*    		Telecom
 
 // ------------- Organizations ------------------
 
